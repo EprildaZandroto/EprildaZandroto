@@ -1,17 +1,12 @@
-<p align="center">Hi there 👋 I'm Eprilda Nonifili Zandroto</p>
+<div align="center">
 
-<p align="center">
-<img src="images/banner.png" width="100%">
-</p><p align="center">
-<img src="images/coding.gif" width="320">
-</p><h3 align="center">
-Informatics Engineering Student • Aspiring Data Analyst • Software Developer
-</h3><p align="center">"Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+Machine+Learning;Always+Learning+Something+New+%F0%9F%8C%B7" />
 
-"GitHub followers" (https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
-"GitHub stars" (https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
-
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E76F51?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,figma,mysql"/>
 
 Hello!
 I'm Eprilda Nonifili Zandroto, an Informatics Engineering student passionate about technology, programming, and data.
@@ -103,10 +98,6 @@ Designed application interfaces using Figma with Design Thinking.
 - UI Design
 - Team Collaboration
 
-📈 GitHub Statistics
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/></p>---
-<p align="center"><img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"></p>---
-
 💡 My Principles
 «Keep Learning.»
 «Keep Building.»
@@ -116,10 +107,4 @@ Every project teaches something new.
 Every challenge helps me grow.
 Technology becomes meaningful when it creates solutions for people.
 
-📫 Let's Connect
-GitHub EprildaZandroto
-LinkedIn Eprilda Nonifili
-Email nonizandroto@gmail.com
 
-<p align="center"><img src="images/workspace.jpg" width="650"></p>---
-<h3 align="center">Thank you for visiting my profile ❤️
