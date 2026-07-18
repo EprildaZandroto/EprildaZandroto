@@ -28,13 +28,13 @@ Programming Languages
 - HTML
 - CSS
 - JavaScript
-- 
+  
 Data Science
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
-- 
+  
 Database
 - MySQL
 - MariaDB
