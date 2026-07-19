@@ -99,13 +99,5 @@ Designed application interfaces using Figma with Design Thinking.
 - UI Design
 - Team Collaboration
 
-💡 My Principles
-«Keep Learning.»
-«Keep Building.»
-«Keep Improving.»
-
-Every project teaches something new.
-Every challenge helps me grow.
-Technology becomes meaningful when it creates solutions for people.
-
-
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/EprildaZandroto/EprildaZandroto/blob/output/snake.svg)
