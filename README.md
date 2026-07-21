@@ -11,16 +11,16 @@
 
 Hello!
 I'm Eprilda Nonifili Zandroto, an Informatics Engineering student passionate about technology, programming, and data.
-I enjoy transforming ideas into applications, exploring datasets, solving programming challenges, and continuously improving my analytical thinking.
-My current goal is to become a professional Data Analyst while strengthening my skills in software development and machine learning.
+I enjoy transforming ideas into applications, exploring datasets, solving programming challenges, and continuously improving my analytical thinking
+My current goal is to become a professional Data Analyst while strengthening my skills in software development and machine learning
 
-🎯 Career Goal
-✔ Data Analyst
-✔ Business Intelligence
-✔ Machine Learning Engineer
-✔ Software Developer
+Career Goal
+Data Analyst
+Business Intelligence
+Machine Learning Engineer
+Software Developer
 
-💻 Tech Stack
+Tech Stack
 Programming Languages
 - Java
 - Python
@@ -54,7 +54,7 @@ Productivity
 - Microsoft PowerPoint
 - Power BI (Learning)
 
-📚 Currently Learning
+Currently Learning
 - Advanced Excel
 - Power BI
 - Machine Learning
@@ -62,8 +62,8 @@ Productivity
 - Clean Code
 - Git Collaboration
 
-🚀 Featured Projects
-🍽 Restaurant Management System
+Featured Projects
+Restaurant Management System
 Desktop application using Java.
 
 Features:
@@ -74,7 +74,7 @@ Features:
 - Discount System
 - Receipt Printing
 
-🎓 Student Graduation Prediction
+Student Graduation Prediction
 Machine Learning Project
 
 Algorithms:
@@ -87,10 +87,10 @@ Evaluation:
 - Recall
 - F1 Score
 
-🎨 UI/UX Redesign
+UI/UX Redesign
 Designed application interfaces using Figma with Design Thinking.
 
-🌱 What I Enjoy
+What I Enjoy
 - Building Applications
 - Solving Programming Problems
 - Learning New Technologies
@@ -99,5 +99,5 @@ Designed application interfaces using Figma with Design Thinking.
 - UI Design
 - Team Collaboration
 
-## 🐍 Contribution Snake
+## Contribution Snake
 ![Snake animation](https://github.com/EprildaZandroto/EprildaZandroto/blob/output/snake.svg)
