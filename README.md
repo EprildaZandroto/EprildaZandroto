@@ -62,11 +62,6 @@ Currently Learning
 - Clean Code
 - Git Collaboration
 
-Featured Projects
-Restaurant Management System
-Desktop application using Java.
-
-Features:
 - Menu Management
 - Customer Orders
 - Automatic Tax
