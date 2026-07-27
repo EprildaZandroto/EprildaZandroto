@@ -61,16 +61,14 @@ Currently Learning
 - Data Visualization
 - Clean Code
 - Git Collaboration
-
 - Menu Management
 - Customer Orders
 - Automatic Tax
 - Service Charge
 - Discount System
 - Receipt Printing
-
-Student Graduation Prediction
-Machine Learning Project
+- Student Graduation Prediction
+- Machine Learning Project
 
 Algorithms:
 - Decision Tree
